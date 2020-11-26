@@ -15,7 +15,7 @@ $discord->on('ready', function ($discord) {
   echo " ", PHP_EOL;
   echo "CC> Starting CryptoCoins Ver. 1.0...", PHP_EOL;
   echo "CC> Success! CryptoCoins running on PHP Version " . phpversion(), PHP_EOL;
-  echo "CC> Avaliable at https://github.com/dintendocoltd/CryptoCoins -- Licensed under GNU GPLv3", PHP_EOL;
+  echo "CC> Avaliable at https://github.com/GovernmentPlates/CryptoCoins -- Licensed under GNU GPLv3", PHP_EOL;
   echo " ", PHP_EOL;
 
     // Listen for messages
